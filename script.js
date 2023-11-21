@@ -6,4 +6,4 @@ let last =document.querySelector('#form1 input[name="lname"]');
 	let lname=last.value;
 	alert(fname+" "+lname);
 }
-}
+
